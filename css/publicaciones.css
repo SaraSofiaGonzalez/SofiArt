@@ -30,6 +30,7 @@ header{
 #c1{
 background-image: url(../img/escultura2.jpg);
 width: 50%;
+height: 500px;
 justify-content: center;
     flex-direction: column;
     align-items: center;
@@ -120,6 +121,7 @@ font-size: 25px;
 #c1{
     background-image: url(../img/escultura2.jpg);
     width: 50%;
+    height: 500px;
     justify-content: center;
         flex-direction: column;
         align-items: center;
