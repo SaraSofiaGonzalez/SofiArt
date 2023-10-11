@@ -30,23 +30,16 @@ header{
     font-family:menu1 ;
     font-size: 22px
 }
+@font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+@font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
 @font-face {
-    font-family: ;
-    src: url( /fonts/Once.otf);
-    font-family: menu1;
-}
-@font-face {
-    font-family: ;
-    src: url(/fonts/Simple\ Signature.otf);
-    font-family: titulo;
-}
-@font-face {
-    font-family: ;
-    src: url( /fonts/Signature.otf);
+    src: url(/fonts/Mantana\ free\ .ttf);
     font-family: expo;
 }
 body{
-    background-image: url(img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+    background-image: url(/img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #div19{
     justify-content: flex-start;
@@ -236,19 +229,10 @@ body{
             font-family:menu1 ;
             font-size: 14px
         }
+        @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+        @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
         @font-face {
-            font-family: ;
-            src: url( /fonts/Once.otf);
-            font-family: menu1;
-        }
-        @font-face {
-            font-family: ;
-            src: url( /fonts/Signature.otf);
-            font-family: titulo;
-        }
-        @font-face {
-            font-family: ;
-            src: url( /fonts/Signature.otf);
+            src: url(/fonts/Mantana\ free\ .ttf);
             font-family: expo;
         }
        
@@ -261,8 +245,10 @@ body{
             margin-left: 5px; 
             
         }
-        #body{
+        body{
             background-image: url(/img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
         }
         #form1{
             justify-content: center;

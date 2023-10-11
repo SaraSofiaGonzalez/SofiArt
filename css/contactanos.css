@@ -36,27 +36,21 @@ li{
     font-family:menu1 ;
     font-size: 22px
 }
-@font-face {
-    font-family: ;
-    src: url( /fonts/Once.otf);
-    font-family: menu1;
-}
-@font-face {
-    font-family: ;
-    src: url( /fonts/Simple\ Signature.otf);
-    font-family: titulo;
-}
-#cont1{
-    background-image: url(/img/galeria\ room.jpg);
+@font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+@font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
+body{
+    background-image: url(/img/galeria\ room.jpg );
     width: 100%;
     height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #df{
     width: 100%;
-    height: 240px;
+    height: 250px;
     background-color: rgb(0, 0, 0);
     font-size: 17px;
-    height: 210px;
+    height: 250px;
          display: flex;
     justify-content: center;
     flex-direction: column;
@@ -127,7 +121,7 @@ display: flex;
                 margin-left: 70px;
                 float: left;
                 font-family: titulo;
-                margin-top: 126px;
+                margin-top: 106px;
             }
                a{
                 text-decoration: none;
@@ -135,20 +129,14 @@ display: flex;
                 font-family:menu1 ;
                 font-size: 14px
             }
-            @font-face {
-                font-family: ;
-                src: url( /fonts/Once.otf);
-                font-family: menu1;
-            }
-            @font-face {
-                font-family: ;
-                src: url( /fonts/Simple\ Signature.otf);
-                font-family: titulo;
-            }
-            #cont1{
-                background-image: url(img/galeria\ room.jpg);
+            @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+    @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
+            body{
+                background-image: url(/img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
+                background-size: cover;
+                background-repeat: no-repeat;
             }
             #df{
                 width: 100%;
@@ -195,7 +183,7 @@ display: flex;
                     }
 
         }
-        @media screen and (min-width:491px) and (max-width:570px)   {
+ @media screen and (min-width:491px) and (max-width:570px)   {
 
             header{
                 background-color: rgb(222, 146, 245);
@@ -236,20 +224,14 @@ display: flex;
                 font-family:menu1 ;
                 font-size: 17px
             }
-            @font-face {
-                font-family: ;
-                src: url( /fonts/Once.otf);
-                font-family: menu1;
-            }
-            @font-face {
-                font-family: ;
-                src: url( /Simple\ Signature.otf);
-                font-family: titulo;
-            }
-            #cont1{
-                background-image: url(/fonts/img/galeria\ room.jpg);
+            @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+            @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
+            body{
+                background-image: url(/img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
+                background-size: cover;
+                background-repeat: no-repeat;
             }
             #df{
                 width: 100%;
@@ -337,20 +319,14 @@ display: flex;
                 font-family:menu1 ;
                 font-size: 17px
             }
-            @font-face {
-                font-family: ;
-                src: url( /fonts/Once.otf);
-                font-family: menu1;
-            }
-            @font-face {
-                font-family: ;
-                src: url( /fonts/Simple\ Signature.otf);
-                font-family: titulo;
-            }
-            #cont1{
+            @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+            @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
+            body{
                 background-image: url(/img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
+                background-size: cover;
+                background-repeat: no-repeat;
             }
             #df{
                 width: 100%;

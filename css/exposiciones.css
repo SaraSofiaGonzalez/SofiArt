@@ -24,19 +24,11 @@ header{
     font-family:menu1 ;
     font-size: 22px
 }
+@font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+@font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
 @font-face {
-    font-family: ;
-    src: url( /fonts/Once.otf);
-    font-family: menu1;
-}
-@font-face {
-    font-family: ;
-    src: url( /fonts/Signature.otf);
-    font-family: titulo;
-}
-@font-face {
-    font-family: ;
-    src: url( /fonts/Signature.otf);
+    
+    src: url( /fonts/Mantana\ free\ .ttf);
     font-family: expo;
 }
 
@@ -150,19 +142,11 @@ header{
             font-family:menu1 ;
             font-size: 14px
         }
+        @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+    @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
         @font-face {
-            font-family: ;
-            src: url( /fonts/Once.otf);
-            font-family: menu1;
-        }
-        @font-face {
-            font-family: ;
-            src: url( /fonts/Signature.otf);
-            font-family: titulo;
-        }
-        @font-face {
-            font-family: ;
-            src: url( /fonts/Signature.otf);
+            
+            src: url( /fonts/Mantana\ free\ .ttf);
             font-family: expo;
         }
         #h2{
@@ -279,19 +263,11 @@ header{
                     font-family:menu1 ;
                     font-size: 17px
                 }
+                @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+                @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
                 @font-face {
-                    font-family: ;
-                    src: url( /fonts/Once.otf);
-                    font-family: menu1;
-                }
-                @font-face {
-                    font-family: ;
-                    src: url( /fonts/Signature.otf);
-                    font-family: titulo;
-                }
-                @font-face {
-                    font-family: ;
-                    src: url( /fonts/Signature.otf);
+                    
+                    src: url( /fonts/Mantana\ free\ .ttf);
                     font-family: expo;
                 }
                 #h2{
@@ -408,19 +384,10 @@ header{
                             font-family:menu1 ;
                             font-size: 17px
                         }
+                        @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
+                        @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
                         @font-face {
-                            font-family: ;
-                            src: url( /fonts/Once.otf);
-                            font-family: menu1;
-                        }
-                        @font-face {
-                            font-family: ;
-                            src: url( /fonts/Simple\ Signature.otf);
-                            font-family: titulo;
-                        }
-                        @font-face {
-                            font-family: ;
-                            src: url( /fonts/Simple\ Signature.otf);
+                            src: url( /fonts/Mantana\ free\ .ttf);
                             font-family: expo;
                         }
                         #h2{
