@@ -10,7 +10,7 @@ q:before, q:after { content:''; }
 html{
     scroll-behavior: unset;
 }
-@font-face {src: url(../fonts/Mantana-Italic.otf);font-family: menu1;}
+@font-face {src: url(../fonts/Once.otf);font-family: menu1;}
 @font-face {src: url(../fonts/Simple\ Signature.otf);font-family: titulo;}
 @font-face {
     src: url(../fonts/Simple\ Signature.otf);
