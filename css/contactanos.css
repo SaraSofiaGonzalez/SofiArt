@@ -37,7 +37,7 @@ li{
     font-size: 22px
 }
 
-body{
+#cont1{
     background-image: url(../img/galeria\ room.jpg );
     width: 100%;
     height: 450px;
@@ -129,7 +129,7 @@ display: flex;
                 font-size: 14px
             }
             
-            body{
+            #cont1{
                 background-image: url(../img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
@@ -223,7 +223,7 @@ display: flex;
                 font-size: 17px
             }
             
-            body{
+            #cont1{
                 background-image: url(../img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
@@ -317,7 +317,7 @@ display: flex;
                 font-size: 17px
             }
             
-            body{
+            #cont1{
                 background-image: url(../img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
