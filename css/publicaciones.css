@@ -28,7 +28,7 @@ header{
 }
 
 #c1{
-background-image: url(/img/escultura2.jpg);
+background-image: url(../img/escultura2.jpg);
 width: 50%;
 justify-content: center;
     flex-direction: column;
@@ -104,12 +104,7 @@ font-size: 25px;
             font-family:menu1 ;
             font-size: 14px
         }
-        @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-        @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
-        @font-face {
-            src: url(/fonts/Mantana\ free\ .ttf);
-            font-family: expo;
-        }
+     
         #f4{color: white;font-size: 12px;
         text-align: center;
     margin-top: 10px;}

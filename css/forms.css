@@ -30,14 +30,9 @@ header{
     font-family:menu1 ;
     font-size: 22px
 }
-@font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-@font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
-@font-face {
-    src: url(/fonts/Mantana\ free\ .ttf);
-    font-family: expo;
-}
+
 body{
-    background-image: url(/img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+    background-image: url(../img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -229,12 +224,6 @@ body{
             font-family:menu1 ;
             font-size: 14px
         }
-        @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-        @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
-        @font-face {
-            src: url(/fonts/Mantana\ free\ .ttf);
-            font-family: expo;
-        }
        
         #div19{
             justify-content: flex-start;
@@ -246,7 +235,7 @@ body{
             
         }
         body{
-            background-image: url(/img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+            background-image: url(../img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
             background-size: cover;
             background-repeat: no-repeat;
         }

@@ -36,10 +36,9 @@ li{
     font-family:menu1 ;
     font-size: 22px
 }
-@font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-@font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
+
 body{
-    background-image: url(/img/galeria\ room.jpg );
+    background-image: url(../img/galeria\ room.jpg );
     width: 100%;
     height: 450px;
     background-size: cover;
@@ -129,10 +128,9 @@ display: flex;
                 font-family:menu1 ;
                 font-size: 14px
             }
-            @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-    @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
+            
             body{
-                background-image: url(/img/galeria\ room.jpg);
+                background-image: url(../img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
                 background-size: cover;
@@ -224,10 +222,9 @@ display: flex;
                 font-family:menu1 ;
                 font-size: 17px
             }
-            @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-            @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
+            
             body{
-                background-image: url(/img/galeria\ room.jpg);
+                background-image: url(../img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
                 background-size: cover;
@@ -319,10 +316,9 @@ display: flex;
                 font-family:menu1 ;
                 font-size: 17px
             }
-            @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-            @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
+            
             body{
-                background-image: url(/img/galeria\ room.jpg);
+                background-image: url(../img/galeria\ room.jpg);
                 width: 100%;
                 height: 270px;
                 background-size: cover;

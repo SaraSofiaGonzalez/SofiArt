@@ -24,13 +24,7 @@ header{
     font-family:menu1 ;
     font-size: 22px
 }
-@font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-@font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
-@font-face {
-    
-    src: url( /fonts/Mantana\ free\ .ttf);
-    font-family: expo;
-}
+
 
 #h2{
     font-family: expo;
@@ -39,7 +33,7 @@ header{
 }
 
 #e2{
-    background-image: url(/img/girasoles.jpg);
+    background-image: url(../img/girasoles.jpg);
     width: 100%;
     height: 197px;
     margin-top: 18px;
@@ -53,7 +47,7 @@ header{
     width: 100%;
     height: 197px;
     margin-top: 18px;
-    background-image: url(/img/expo1.jpg); 
+    background-image: url(../img/expo1.jpg); 
     background-size: cover;
 }
 #e4{
@@ -62,7 +56,7 @@ header{
     width: 100%;
     height: 197px;
     margin-top: 18px;
-     background-image: url(/img/Pinturas-Rococo.webp);
+     background-image: url(../img/Pinturas-Rococo.webp);
      background-size: cover;
 }
 #e5{
@@ -142,13 +136,7 @@ header{
             font-family:menu1 ;
             font-size: 14px
         }
-        @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-    @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
-        @font-face {
-            
-            src: url( /fonts/Mantana\ free\ .ttf);
-            font-family: expo;
-        }
+       
         #h2{
             font-family: expo;
             margin-left: 900px;
@@ -156,7 +144,7 @@ header{
         }
         
         #e2{
-            background-image: url(/img/girasoles.jpg);
+            background-image: url(../img/girasoles.jpg);
             width: 100%;
             height: 197px;
             margin-top: 18px;
@@ -170,7 +158,7 @@ header{
             width: 100%;
             height: 197px;
             margin-top: 18px;
-            background-image: url(/img/expo1.jpg); 
+            background-image: url(../img/expo1.jpg); 
             background-size: cover;
         }
         #e4{
@@ -179,7 +167,7 @@ header{
             width: 100%;
             height: 197px;
             margin-top: 18px;
-             background-image: url(/img/Pinturas-Rococo.webp);
+             background-image: url(../img/Pinturas-Rococo.webp);
              background-size: cover;
         }
         #e5{
@@ -263,13 +251,7 @@ header{
                     font-family:menu1 ;
                     font-size: 17px
                 }
-                @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-                @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
-                @font-face {
-                    
-                    src: url( /fonts/Mantana\ free\ .ttf);
-                    font-family: expo;
-                }
+               
                 #h2{
                     font-family: expo;
                     margin-left: 900px;
@@ -277,7 +259,7 @@ header{
                 }
                 
                 #e2{
-                    background-image: url(/img/girasoles.jpg);
+                    background-image: url(../img/girasoles.jpg);
                     width: 100%;
                     height: 197px;
                     margin-top: 18px;
@@ -291,7 +273,7 @@ header{
                     width: 100%;
                     height: 197px;
                     margin-top: 18px;
-                    background-image: url(/img/expo1.jpg); 
+                    background-image: url(../img/expo1.jpg); 
                     background-size: cover;
                 }
                 #e4{
@@ -300,7 +282,7 @@ header{
                     width: 100%;
                     height: 197px;
                     margin-top: 18px;
-                     background-image: url(/img/Pinturas-Rococo.webp);
+                     background-image: url(../img/Pinturas-Rococo.webp);
                      background-size: cover;
                 }
                 #e5{
@@ -384,12 +366,7 @@ header{
                             font-family:menu1 ;
                             font-size: 17px
                         }
-                        @font-face {src: url(/fonts/Mantana\ free\ .ttf);font-family: menu1;}
-                        @font-face {src: url(/fonts/Romantic\ Soneta.ttf);font-family: titulo;}
-                        @font-face {
-                            src: url( /fonts/Mantana\ free\ .ttf);
-                            font-family: expo;
-                        }
+                        
                         #h2{
                             font-family: expo;
                             margin-left: 900px;
@@ -397,7 +374,7 @@ header{
                         }
                         
                         #e2{
-                            background-image: url(/img/girasoles.jpg);
+                            background-image: url(../img/girasoles.jpg);
                             width: 100%;
                             height: 197px;
                             margin-top: 18px;
@@ -411,7 +388,7 @@ header{
                             width: 100%;
                             height: 197px;
                             margin-top: 18px;
-                            background-image: url(/img/expo1.jpg); 
+                            background-image: url(../img/expo1.jpg); 
                             background-size: cover;
                         }
                         #e4{
@@ -420,7 +397,7 @@ header{
                             width: 100%;
                             height: 197px;
                             margin-top: 18px;
-                             background-image: url(/img/Pinturas-Rococo.webp);
+                             background-image: url(../img/Pinturas-Rococo.webp);
                              background-size: cover;
                         }
                         #e5{
