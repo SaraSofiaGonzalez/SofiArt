@@ -26,20 +26,24 @@ li{list-style: none;}
     font-family:menu1 ;
     font-size: 22px
 }
-
-#n{ width: 80%;
-    height: 400px;
+body{
+  background-image: url(../img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#n{ width: 60%;
+    height: auto;
     border-radius: 20px 20px 20px 20px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(253, 252, 252, 0.89);
             width: 80%;
             margin-left: auto;
             margin-right: auto;
-            margin-top: 15px;
+            margin-top: 55px;
             justify-content: center;
             display: flex;
             flex-direction: column;}
 #divn{
-    color: white;
+    color: rgb(50, 25, 240);
     font-size: 34px;
     margin-top: 5px;
     margin-left: auto;
@@ -49,10 +53,38 @@ li{list-style: none;}
     margin-top: 23px;
     margin-left: 27px;
     margin-right: 27px;
-    color: white;
+    color: rgb(47, 47, 236);
   }
   @media screen and (min-width:280px) and (max-width:490px)   {
-
+    body{
+      background-image: url(../img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #n{ width: 60%;
+      height: auto;
+      border-radius: 20px 20px 20px 20px;
+      background-color: rgba(253, 252, 252, 0.89);
+              width: 80%;
+              margin-left: auto;
+              margin-right: auto;
+              margin-top: 35px;
+              justify-content: center;
+              display: flex;
+              flex-direction: column;}
+  #divn{
+      color: rgb(50, 25, 240);
+      font-size: 34px;
+      margin-top: 5px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #hm{
+      margin-top: 23px;
+      margin-left: 27px;
+      margin-right: 27px;
+      color: rgb(47, 47, 236);
+    }
     header{
         background-color: rgb(224, 130, 130);
         height: 100px;
@@ -85,35 +117,15 @@ li{list-style: none;}
             font-size: 14px
         }
         
-        #n{ border-radius: 10px 10px 10px 10px;
-            background-color: rgb(0, 0, 0);
-            width: 80%;
-            height: auto;
-            margin-left: auto;
-            margin-right: auto;
-            margin-top: 15px;
-            justify-content: center;
-            display: flex;
-            flex-direction: column;
-        
-        }
-        #divn{
-            color: white;
-            font-size: 34px;
-            margin-top: 25px;
-            margin-left: auto;
-            margin-right: auto;
-          }
-          #hm{
-            margin-top: 23px;
-            margin-left: 27px;
-            margin-right: 27px;
-            color: white;
-          }
+       
 
           }
           @media screen and (min-width:491px) and (max-width:570px)   {
-
+            body{
+              background-image: url(../img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+              background-size: cover;
+              background-repeat: no-repeat;
+            }
             header{
                 background-color: rgb(224, 130, 130);
                 height: 100px;
@@ -146,36 +158,44 @@ li{list-style: none;}
                     font-size: 14px
                 }
                 
-                #n{ border-radius: 10px 10px 10px 10px;
-                    background-color: rgb(0, 0, 0);
-                    width: 80%;
-                    height: auto;
-                    margin-left: auto;
-                    margin-right: auto;
-                    margin-top: 15px;
-                    justify-content: center;
-                    display: flex;
-                    flex-direction: column;
-                
+                body{
+                  background-image: url(../img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+                  background-size: cover;
+                  background-repeat: no-repeat;
                 }
-                #divn{
-                    color: white;
-                    font-size: 34px;
-                    margin-top: 25px;
-                    margin-left: auto;
-                    margin-right: auto;
-                  }
-                  #hm{
-                    margin-top: 23px;
-                    margin-left: 27px;
-                    margin-right: 27px;
-                    color: white;
-                  }
+                #n{ width: 60%;
+                  height: auto;
+                  border-radius: 20px 20px 20px 20px;
+                  background-color: rgba(253, 252, 252, 0.89);
+                          width: 80%;
+                          margin-left: auto;
+                          margin-right: auto;
+                          margin-top: 35px;
+                          justify-content: center;
+                          display: flex;
+                          flex-direction: column;}
+              #divn{
+                  color: rgb(50, 25, 240);
+                  font-size: 34px;
+                  margin-top: 5px;
+                  margin-left: auto;
+                  margin-right: auto;
+                }
+                #hm{
+                  margin-top: 23px;
+                  margin-left: 27px;
+                  margin-right: 27px;
+                  color: rgb(47, 47, 236);
+                }
         
                   
                   }
                   @media screen and (min-width:571px) and (max-width:900px)   {
-
+                    body{
+                      background-image: url(../img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+                      background-size: cover;
+                      background-repeat: no-repeat;
+                    }
                     header{
                         background-color: rgb(224, 130, 130);
                         height: 100px;
@@ -208,31 +228,34 @@ li{list-style: none;}
                             font-size: 14px
                         }
                        
-                        #n{ border-radius: 10px 10px 10px 10px;
-                            background-color: rgb(0, 0, 0);
-                            width: 80%;
-                            height: auto;
-                            margin-left: auto;
-                            margin-right: auto;
-                            margin-top: 15px;
-                            justify-content: center;
-                            display: flex;
-                            flex-direction: column;
-                        
+                        body{
+                          background-image: url(../img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+                          background-size: cover;
+                          background-repeat: no-repeat;
                         }
-                        #divn{
-                            color: white;
-                            font-size: 34px;
-                            margin-top: 25px;
-                            margin-left: auto;
-                            margin-right: auto;
-                            
-                          }
-                          #hm{
-                            margin-top: 23px;
-                            margin-left: 27px;
-                            margin-right: 27px;
-                            color: white;
-                          }
+                        #n{ width: 60%;
+                          height: auto;
+                          border-radius: 20px 20px 20px 20px;
+                          background-color: rgba(253, 252, 252, 0.89);
+                                  width: 80%;
+                                  margin-left: auto;
+                                  margin-right: auto;
+                                  margin-top: 35px;
+                                  justify-content: center;
+                                  display: flex;
+                                  flex-direction: column;}
+                      #divn{
+                          color: rgb(50, 25, 240);
+                          font-size: 34px;
+                          margin-top: 5px;
+                          margin-left: auto;
+                          margin-right: auto;
+                        }
+                        #hm{
+                          margin-top: 23px;
+                          margin-left: 27px;
+                          margin-right: 27px;
+                          color: rgb(47, 47, 236);
+                        }
                 
                           }

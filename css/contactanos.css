@@ -115,7 +115,7 @@ display: flex;
                 }
                li{list-style: none;} 
             #h128{
-                color: rgb(246, 240, 240);
+                color: rgb(0, 0, 0);
                 font-size: 73px;
                 margin-left: 70px;
                 float: left;
@@ -184,7 +184,7 @@ display: flex;
  @media screen and (min-width:491px) and (max-width:570px)   {
 
             header{
-                background-color: rgb(222, 146, 245);
+                background-color: rgb(224, 130, 130);
                 height: 100px;
                 align-items: center;
                 display: flex;
@@ -209,7 +209,7 @@ display: flex;
                 }
                 li{list-style: none;} 
             #h128{
-                color: rgb(246, 240, 240);
+                color: rgb(0, 0, 0);
                 font-size: 103px;
                 margin-left: 70px;
                 float: left;
@@ -278,7 +278,7 @@ display: flex;
         @media screen and (min-width:571px) and (max-width:890px)   {
 
             header{
-                background-color: rgb(255, 255, 4);
+                background-color: rgb(224, 130, 130);
                 height: 100px;
                 align-items: center;
                 display: flex;
@@ -303,7 +303,7 @@ display: flex;
                 }
                 li{list-style: none;} 
             #h128{
-                color: rgb(246, 240, 240);
+                color: rgb(0, 0, 0);
                 font-size: 103px;
                 margin-left: 70px;
                 float: left;
